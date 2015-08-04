@@ -1,0 +1,105 @@
+* {
+    font-family: arial;
+}
+
+body {
+    padding-top: 50px;   
+}
+
+section {
+    padding-top: 25px;
+    padding-bottom: 15px;
+    min-height: 100vh;
+}
+
+#contato {
+    min-height: 80vh;
+}
+
+footer {
+    background: #0A270A;
+    color:white;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.divslider {
+    padding-top: 15px;
+    padding-bottom: 15px;   
+}
+
+.div_colorida {
+    background: #faecc5;
+	box-shadow:1px 1px 4px black;
+}
+
+.portfolio_row {
+    margin-bottom: 20px;   
+}
+
+.contato textarea {
+    height: 170px;   
+}
+
+.contato .aviso {
+    padding: 15px;   
+}
+
+.produto {
+	height:350px;
+	margin-top:30px;
+	padding:10px;
+}
+
+.produto img {
+	height:240px;
+	width:100%;
+}
+
+.produto h4 {
+	padding:0;
+	margin:0;
+	padding:10px;
+	font-size:15px;
+}
+
+.fonte {
+	font-family:Playball;
+}
+
+.navbar {
+	background-color: #d9534f;
+	border-radius: 0px;
+}
+
+.navbar a {
+	color: white;
+	font-family:Playball;
+	font-size: 20px;
+}
+
+.navbar-brand img{
+	margin-top:-10px;
+	height:45px;
+}
+
+.nav li a:hover{
+	background:#d96a4f;
+}
+
+.img_prod {
+	cursor: pointer;
+}
+
+.modal-body img {
+	width:100%;
+}
+
+.prod_cart {
+	height:200px;	
+}
+
+.prod_carrinho td img {
+	width:100%;
+	height:120px;
+}

@@ -1,0 +1,78 @@
+.logar {
+	margin-top:150px;
+	box-shadow: 1px 1px 7px black;
+	font-family:Playball;
+	color:black;
+	border:5px solid white;
+}
+
+.fundo{
+	background-image:url("../img/2.jpg");
+	background-position: center center;
+	background-size: 100% 100%;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	margin:0;
+	padding:0;
+}
+
+#cadastro{
+	padding:10px;
+}
+
+.modal h3 {
+	padding:5px;
+	font-family:Playball;	
+}
+
+.fonte {
+	font-family:Playball;
+}
+
+#cadastro table tr td{
+	margin-left:10px;
+}
+
+.navbar {
+	background-color: #d9534f;
+	font-family:Playball;
+	border-radius: 0px;
+}
+
+.navbar a {
+	color: white;
+	font-size: 30px;
+}
+
+.navbar-brand img{
+	margin-top:-10px;
+	height:45px;
+}
+
+ul li .sair {
+	font-size: 18px;	
+}
+
+.cod_prod {
+	margin-top: 50px;
+	border-radius: 0;
+	box-shadow: 1px 1px 4px black;	
+}
+
+.detalhamento{
+	margin-top: 50px;
+}
+
+.logo {
+	width:100%;
+	height:100%;	
+}
+
+.nav li a:hover{
+	background:#d96a4f;
+}
+
+.qtd_atend{
+	font-family:Playball;
+	font-size:22px;	
+}
